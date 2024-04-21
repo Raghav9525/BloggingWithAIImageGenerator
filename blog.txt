@@ -1,0 +1,17 @@
+
+titlt = "Opinion: 5 Cricket Rules That ICC Needs to Dump Right Away"
+Category = "cricket"
+
+description = "No one could have scripted this World Cup 2019 finish better. Other than the cricket governing body itself, the International Cricket Council (ICC). While we will talk about this thrilling World Cup 2019 final living up to its reputation for years to come, the fact that no team lost the final and still one team won the World Cup have left many cricket fans fuming about the ICC rules"
+
+
+title = "Lok Sabha Polls 2024 Highlights: Fresh polls to be held in 11 polling stations of I-Inner Manipur LS constituency on April 22"
+
+Category= politics
+
+description = "India Elections 2024: Prime Minister Narendra Modi on Saturday said that the opposition INDI bloc's focus is on him, however, his focus is on the development of the country as well as on its global image.
+
+"The issue of Congress and INDI alliance is Modi, Modi's family, and wrongfully accusing Modi. But Modi's focus is on the development of 21st-century India, to ensure good facilities and wealth for the people of India, and India's global image," said Modi while addressing a public rally in Bengaluru.
+
+The Prime Minister further added that India is now a first mover and not a follower."
+

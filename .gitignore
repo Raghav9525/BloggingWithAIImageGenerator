@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/backend
+
+downloadImg.html
+home.html
+Mayank.html
+home1.html
+blog.text
+
+.env
+
+
+
